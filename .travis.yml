@@ -5,3 +5,4 @@ rvm:
 before_install:
   - gem install jeweler
   - gem install rspec
+  - gem install coveralls
