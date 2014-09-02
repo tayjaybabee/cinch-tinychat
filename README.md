@@ -14,6 +14,11 @@ tiny_chat.rb
 ### Description
 The _TinyChat_ gem (created for the Cinch IRC Bot Framework) is used to parse an XML API from apigee.com for TinyChat the browser chat client. Using it's commands you can have essential information of a TinyChat room returned to the channel.
 
+### Installation
+To install the gem:
+
+> gem install cinch-tinychat
+
 ### Configuration
 Firstly, the _TinyChat_ gem does not need an API key as it simply parses VML data from a link delivered through the bot.
 
