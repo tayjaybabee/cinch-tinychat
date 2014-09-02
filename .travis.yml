@@ -2,3 +2,7 @@ language: ruby
 rvm:
   - 2.1.0
   - 1.9.3
+before_install:
+  - gem install jeweler
+  - gem install rspec
+  - gem install coveralls
