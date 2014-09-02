@@ -1,4 +1,4 @@
-[![Gem Version](https://badge.fury.io/rb/cinch-tinychat.png)](http://badge.fury.io/rb/cinch-tinychat)
+[![Gem Version](https://badge.fury.io/rb/cinch-tinychat.png)](http://badge.fury.io/rb/cinch-tinychat) [![Dependency Status](https://gemnasium.com/Namasteh/cinch-tinychat.svg)](https://gemnasium.com/Namasteh/cinch-tinychat)
 
 ### Authors
 @doubledave
