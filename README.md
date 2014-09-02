@@ -1,4 +1,4 @@
-[![Gem Version](https://badge.fury.io/rb/cinch-tinychat.png)](http://badge.fury.io/rb/cinch-tinychat) [![Dependency Status](https://gemnasium.com/Namasteh/cinch-tinychat.svg)](https://gemnasium.com/Namasteh/cinch-tinychat)
+[![Gem Version](https://badge.fury.io/rb/cinch-tinychat.png)](http://badge.fury.io/rb/cinch-tinychat) [![Dependency Status](https://gemnasium.com/Namasteh/cinch-tinychat.svg)](https://gemnasium.com/Namasteh/cinch-tinychat) [![Build Status](https://travis-ci.org/Namasteh/cinch-tinychat.svg?branch=master)](https://travis-ci.org/Namasteh/cinch-tinychat) [![Coverage Status](https://coveralls.io/repos/Namasteh/cinch-tinychat/badge.png)](https://coveralls.io/r/Namasteh/cinch-tinychat)
 
 ### Authors
 @doubledave
