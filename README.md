@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/cinch-tinychat.png)](http://badge.fury.io/rb/cinch-tinychat)
+
 ### Authors
 @doubledave
 @Namasteh
