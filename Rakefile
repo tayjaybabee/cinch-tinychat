@@ -18,6 +18,9 @@ begin
     gem.files = ["lib/**/*.rb", "README.rdoc", "LICENSE"]
     gem.add_dependency "cinch"
     gem.add_dependency "nokogiri"
+    gem.add_development_dependency "coveralls"
+    gem.add_development_dependency "jeweler"
+    gem.add_development_dependency "rspec"
   end
   Jeweler::GemcutterTasks.new
 rescue LoadError
